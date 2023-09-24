@@ -25,7 +25,11 @@ zad1();
 
 }
 
-    private static void zad2() {
+    public static void main(String[] args)
+    zad2() {
+
+
+private static void zad2() {
 
         for (int i = 1; i < 21; i++) {
             System.out.println(i);
@@ -34,7 +38,7 @@ zad1();
 
 
 }
-
+}
 
 
 
