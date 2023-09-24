@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        zad1();
+//        zad1();
+        zad2();
     }
 
     private static void zad1() {
@@ -16,5 +17,13 @@ public class Main {
 
     }
 
+    private static void zad2() {
+
+        for (int i = 1; i < 21; i++) {
+            System.out.println(i);
+        }
+    }
+
 
 }
+
