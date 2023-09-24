@@ -5,7 +5,7 @@ public class Main {
     }
 
     private void zad1() {
-
+        if()
     }
 
 
